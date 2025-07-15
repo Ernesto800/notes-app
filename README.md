@@ -1,3 +1,5 @@
+# Notes APP
+
 📝 Notas Personales
 ¡Bienvenido a la aplicación de Notas Personales! Este es un proyecto sencillo desarrollado con Vue 3 y Pinia para ayudarte a organizar tus ideas, tareas y recordatorios de una manera limpia e intuitiva.
 
