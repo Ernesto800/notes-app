@@ -4,19 +4,22 @@
 ¡Bienvenido a la aplicación de Notas Personales! Este es un proyecto sencillo desarrollado con Vue 3 y Pinia para ayudarte a organizar tus ideas, tareas y recordatorios de una manera limpia e intuitiva.
 
 ✨ Características
-Creación de Notas: Añade nuevas notas con un título fácilmente.
+### Creación de Notas
+Añade nuevas notas con un título fácilmente.
 
-Gestión de Notas: Edita el título de tus notas existentes.
+### Gestión de Notas
+Edita el título de tus notas existentes.
 
-Marcado de Notas: Marca notas como "completadas" o "importantes" (indicado por un checkbox).
+### Eliminación de Notas
+Borra notas marcadas con un solo clic.
 
-Eliminación de Notas: Borra notas marcadas con un solo clic.
+### Interfaz Intuitiva
+Diseño limpio y responsivo para una experiencia de usuario agradable.
 
-Interfaz Intuitiva: Diseño limpio y responsivo para una experiencia de usuario agradable.
+### Estado de la Aplicación
+Manejo de estados de carga y error para una mejor retroalimentación visual.
 
-Estado de la Aplicación: Manejo de estados de carga y error para una mejor retroalimentación visual.
-
-🚀 Tecnologías Utilizadas
+## 🚀 Tecnologías Utilizadas
 Vue 3: El framework progresivo de JavaScript para construir interfaces de usuario.
 
 Pinia: El store de estado oficial de Vue, ligero y fácil de usar.
@@ -27,7 +30,7 @@ Fetch API: Para la comunicación con la API.
 
 Beeceptor: Utilizado como un servicio de mock API para simular el backend.
 
-⚙️ Configuración y Ejecución Local
+##⚙️ Configuración y Ejecución Local
 Sigue estos pasos para configurar y ejecutar la aplicación en tu entorno local:
 
 Clonar el Repositorio:
@@ -49,7 +52,7 @@ npm run dev
 
 La aplicación se iniciará en http://localhost:5173 (o un puerto similar).
 
-⚠️ Consideraciones sobre la API (Beeceptor)
+## ⚠️ Consideraciones sobre la API (Beeceptor)
 Esta aplicación utiliza Beeceptor (https://ca1e5708a0c092b5548e.free.beeceptor.com/api/users/) como un servicio de mock API para simular las operaciones de backend (obtener, añadir, eliminar notas).
 
 Es importante tener en cuenta lo siguiente:
@@ -60,7 +63,7 @@ No Persistencia Real: Beeceptor está diseñado para simular respuestas de API y
 
 Para un entorno de producción o una demostración más robusta y persistente, se recomendaría integrar un backend real con una base de datos (por ejemplo, Firebase, Supabase, o un backend personalizado).
 
-📞 Contacto
+## 📞 Contacto
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
 Correro: ernesto.boza.delacruz@gmail.com
 Teléfono: +34 687716626
